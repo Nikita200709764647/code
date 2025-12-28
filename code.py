@@ -1,3 +1,4 @@
+//create comment
 price = float(input("Введите цену товара: "))
 discount = float(input("Введите процент скидки: "))
 
